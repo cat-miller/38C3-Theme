@@ -1,0 +1,21 @@
+{
+  "name": "38c3-theme",
+  "displayName": "38c3Theme",
+  "description": "38c3 Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "38c3 Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/38c3 Theme Dark-color-theme.json"
+      }
+    ]
+  }
+}
